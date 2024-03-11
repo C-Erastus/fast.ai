@@ -1,0 +1,7 @@
+''' An ai model that takes picture of weapons and determine
+	there're damaged or not. It also tells you what parts 
+	of the weapons are damaged '''
+
+''' Another model can determine if a weapon is clean or not as well
+	as the degree of the weapon be dirty '''
+
